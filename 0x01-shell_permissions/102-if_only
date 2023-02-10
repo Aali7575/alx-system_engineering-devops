@@ -1,2 +1,2 @@
-#!bin/bash
-chown -from=guillame betty hello (double hyphen)
+#!/bin/bash
+chown --from=guillaume betty hello
